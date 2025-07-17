@@ -1,0 +1,1 @@
+// Simulated Flutter compiled JS
